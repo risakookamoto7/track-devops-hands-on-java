@@ -2,7 +2,7 @@ package com.example.handson;
 
 public class Calculator {
 
-    public int add(int a, int b) {
+    public double(double a, double b) {
         return a + b;
     }
 }
