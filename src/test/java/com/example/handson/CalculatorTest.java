@@ -12,8 +12,7 @@ public class CalculatorTest {
     }
 
     @Test
-    Java
-    Java
+
     public void testAddDecimalValues() {
         Calculator calc = new Calculator();
         assertEquals(4.7, calc.add(1.2, 3.5), 0.0001);
